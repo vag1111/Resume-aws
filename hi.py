@@ -1,0 +1,1 @@
+input("whats your name")
